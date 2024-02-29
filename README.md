@@ -2,7 +2,7 @@
  * Concept of Docs Application / Static Data
  * Components Based
  * Proper use of
-  * React Hooks
-  * Props
+    * React Hooks
+    * Props
   * Static / Explicit TypeScript Typings
  * Draggable Components by using Framer-Motion
