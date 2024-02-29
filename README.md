@@ -4,5 +4,5 @@
  * Proper use of
     * React Hooks
     * Props
-  * Static / Explicit TypeScript Typings
+    * Static / Explicit TypeScript Typings
  * Draggable Components by using Framer-Motion
